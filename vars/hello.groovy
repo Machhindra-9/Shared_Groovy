@@ -1,3 +1,3 @@
-def call(){
-  echo "hello groovy"
+def call(String User){
+  echo "hello ${User} how are you?"
 }
